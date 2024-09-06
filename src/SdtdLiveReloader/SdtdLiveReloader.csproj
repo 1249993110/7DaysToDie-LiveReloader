@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RuntimeIdentifiers>win-x64;linux-x64</RuntimeIdentifiers>
+		<Platform>x64</Platform>
+		<OutputType>Library</OutputType>
+		<Authors>IceCoffee</Authors>
+		<Company>LuoShuiTianYi</Company>
+		<Copyright>Copyright (c) 2024 IceCoffee</Copyright>
+		<LangVersion>10.0</LangVersion>
+		<Version>1.1</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="Assembly-CSharp">
+			<Private>false</Private>
+			<HintPath>7dtd-binaries\Assembly-CSharp.dll</HintPath>
+		</Reference>
+		<Reference Include="Assembly-CSharp-firstpass">
+			<Private>false</Private>
+			<HintPath>7dtd-binaries\Assembly-CSharp-firstpass.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<Private>false</Private>
+			<HintPath>7dtd-binaries\UnityEngine.CoreModule.dll</HintPath>
+		</Reference>
+		<Reference Include="LogLibrary">
+			<Private>false</Private>
+			<HintPath>7dtd-binaries\LogLibrary.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="ModInfo.xml">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModInfo>
+	<Name value="SdtdLiveReloader" />
+	<DisplayName value="7DaysToDie-LiveReloader" />
+	<Description value="This mod allows you to press F1 after entering the game and type ty-ReloadAll or ty-ra to reload all XML, XUI, and localization files in real time, without restarting the game. After entering the command, it will freeze for a few seconds. The mod only takes effect on the game client and needs to close EAC." />
+	<Author value="IceCoffee" />
+	<Version value="1.1" />
+	<Website value="https://github.com/1249993110/7DaysToDie-LiveReloader" />
+</ModInfo>
