@@ -12,3 +12,10 @@ Game Client only. Required game version: V1.0
 
 ## 👷 Support
 Welcome join [our Discord server](<https://discord.gg/zdnmngsBK4>) and we can help.
+
+## 💚 Donate
+If you find this project useful, you can buy author a coffee :coffee:
+
+[!["Buy Me a Coffee at ko-fi.com"](https://storage.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/L3L012RJ8R)
+
+![image](https://github.com/user-attachments/assets/615fb619-5f40-42da-86ad-e60de11cdef2)
