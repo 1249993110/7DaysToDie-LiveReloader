@@ -1,5 +1,5 @@
 # 7DaysToDie-LiveReloader
-This mod allows you to reload all XML, XUI, and localization files in real time by pressing F1 in the console after entering the game, without restarting the game. After entering the command, it will freeze for a few seconds. The mod only takes effect on the game client and needs to close EAC.
+This mod allows you to reload all XML, XUI, and localization files in real time by pressing F1 in the console after entering the game, without restarting the game. After entering the command, it will freeze for a few seconds. The mod only takes effect on the game client and needs to disable EAC.
 
 ## 🌐 Compatibility
 Game Client only. Required game version: V1.0
