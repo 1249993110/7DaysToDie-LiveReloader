@@ -18,6 +18,8 @@
             {
                 "ty-ReloadAll",
                 "ty-ra",
+                "reload-all",
+                "refresh-all",
             };
         }
 

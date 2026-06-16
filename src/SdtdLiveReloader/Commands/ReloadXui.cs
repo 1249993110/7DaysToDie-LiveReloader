@@ -18,6 +18,8 @@
             {
                 "ty-ReloadXui",
                 "ty-rxui",
+                "reload-xui",
+                "refresh-xui",
             };
         }
 

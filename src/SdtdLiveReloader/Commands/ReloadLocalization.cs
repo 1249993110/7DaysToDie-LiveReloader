@@ -18,6 +18,8 @@
             {
                 "ty-ReloadLocalization",
                 "ty-rl",
+                "reload-local",
+                "refresh-local",
             };
         }
 

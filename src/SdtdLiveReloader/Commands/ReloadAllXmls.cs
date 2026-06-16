@@ -18,6 +18,8 @@
             {
                 "ty-ReloadAllXmls",
                 "ty-rax",
+                "reload-xml",
+                "refresh-xml",
             };
         }
 
